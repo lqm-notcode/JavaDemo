@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf676cc4-d7f6-4a8d-98d9-8d234b78b74b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Ei0Tu9kn0vUGQL546iKtZkayq4" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Demo_TreeNode/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\MyWork\Demo_TreeNode\src" />
+      <recent name="E:\MyWork\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DemoMain">
+    <configuration name="DemoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoMain" />
+      <module name="Demo_Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Demo_Threads" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoMain" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf676cc4-d7f6-4a8d-98d9-8d234b78b74b" name="Default Changelist" comment="" />
+      <created>1663063108431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663063108431</updated>
+      <workItem from="1663063110315" duration="3377000" />
+      <workItem from="1663297732524" duration="10212000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="671" y="223" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1663308883308">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="671" y="223" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1663308883308" />
+    <state width="1392" height="215" key="GridCell.Tab.0.bottom" timestamp="1663550524450">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1392" height="215" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1663550524450" />
+    <state width="1392" height="215" key="GridCell.Tab.0.center" timestamp="1663550524450">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1392" height="215" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1663550524450" />
+    <state width="1392" height="215" key="GridCell.Tab.0.left" timestamp="1663550524450">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1392" height="215" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1663550524450" />
+    <state width="1392" height="215" key="GridCell.Tab.0.right" timestamp="1663550524450">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1392" height="215" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1663550524450" />
+    <state width="1392" height="215" key="GridCell.Tab.1.bottom" timestamp="1663550524451">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1392" height="215" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1663550524451" />
+    <state width="1392" height="215" key="GridCell.Tab.1.center" timestamp="1663550524451">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1392" height="215" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1663550524451" />
+    <state width="1392" height="215" key="GridCell.Tab.1.left" timestamp="1663550524450">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1392" height="215" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1663550524450" />
+    <state width="1392" height="215" key="GridCell.Tab.1.right" timestamp="1663550524451">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1392" height="215" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1663550524451" />
+    <state x="612" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1665218910080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="612" y="341" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1665218910080" />
+    <state x="451" y="236" key="new project wizard" timestamp="1663297798889">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="451" y="236" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1663297798889" />
+    <state x="525" y="181" key="refactoring.ChangeSignatureDialog" timestamp="1663299641216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="525" y="181" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1663299641216" />
+    <state x="490" y="308" width="672" height="678" key="search.everywhere.popup" timestamp="1663298226973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="308" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1663298226973" />
+  </component>
+</project>
